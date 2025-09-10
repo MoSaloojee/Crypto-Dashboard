@@ -4,3 +4,4 @@ yfinance
 streamlit-authenticator
 ccxt
 numpy
+plotly
