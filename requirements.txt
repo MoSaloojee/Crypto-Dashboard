@@ -1,6 +1,8 @@
-streamlit>=1.37.0
-ccxt==4.3.47
-plotly==5.23.0
-pandas==2.2.2
-numpy==1.26.4
-streamlit-authenticator==0.4.2   # 👈 latest stable (Mar 2025)
+cat << EOF > requirements.txt
+streamlit
+streamlit-authenticator
+ccxt
+pandas
+numpy
+plotly
+EOF
