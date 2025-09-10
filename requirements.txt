@@ -2,3 +2,5 @@ streamlit
 pandas
 yfinance
 streamlit-authenticator
+ccxt
+numpy
